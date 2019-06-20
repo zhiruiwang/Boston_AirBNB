@@ -1,16 +1,16 @@
 # Boston_AirBNB
 
 ## Libraries
-`numpy`
-`pandas`
-`matplotlib`
-`seaborn`
+`numpy`  
+`pandas `   
+`matplotlib`  
+`seaborn`  
 
 ## Motivation
 The motivation of this project is to apply the CRISP-DM method into a real world data and problems, and find some business insights and solutions using data science techniques
 
 ## Data
-[Boston AirBNB Data](https://www.kaggle.com/airbnb/boston)
+[Boston AirBNB Data](https://www.kaggle.com/airbnb/boston)  
 The Boston AirBNB homes data can be find at the above link. It has three files that are used in this project:
 
 - calendar.csv: Detailed calendar data for listings in Boston
